@@ -13,6 +13,19 @@ Java learning howeWork
 
 [GooGle](http://www.google.com)
 
+---
+
+標籤連結:
+[Google][1]
+[Yahoo][2]
+[MSN][3]
+
+  [1]: http://google.com/        "游標顯示"
+  [2]: http://search.yahoo.com/  "游標顯示"
+  [3]: http://search.msn.com/    "游標顯示"
+
+  
+
 <ul type="disk">
 <li>台北捷運板南線</li>
 <li>台北捷運淡水線</li>
