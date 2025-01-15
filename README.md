@@ -23,3 +23,10 @@ Java learning howeWork
 </ul>
 
 </hr>
+
+<ol type="1">
+<li>Apples</li>
+<li>Bananas</li>
+<li>Lemons</li>
+<li>Oranges</li>
+</ol>
